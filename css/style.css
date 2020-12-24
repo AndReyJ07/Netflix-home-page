@@ -378,6 +378,12 @@ img {
     text-align: center;
   }
 
+  .table thead th {
+    text-transform: uppercase;
+    padding: 0.6rem;
+    font-size: 0.9rem;
+  }
+
   .btn-xl {
     font-size: 1.3rem;
     padding: 1.2rem 1.8rem;
